@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>合并建议审核 - 图片分组合并与审核工具</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 30px;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 15px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .similarity-score {
+            font-size: 1.2em;
+            color: #27ae60;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        .groups-container {
+            display: flex;
+            gap: 30px;
+            margin: 30px 0;
+        }
+        .group {
+            flex: 1;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            background: #fafafa;
+        }
+        .group-title {
+            text-align: center;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #2c3e50;
+        }
+        .group-id {
+            font-family: monospace;
+            background: #e8f4fd;
+            padding: 5px;
+            border-radius: 4px;
+            word-break: break-all;
+        }
+        .images-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            gap: 10px;
+            margin-top: 15px;
+        }
+        .image-item {
+            text-align: center;
+        }
+        .image-preview {
+            width: 100%;
+            height: 100px;
+            object-fit: cover;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .image-name {
+            font-size: 0.8em;
+            margin-top: 5px;
+            word-break: break-all;
+        }
+        .controls {
+            text-align: center;
+            margin: 30px 0;
+        }
+        .btn {
+            padding: 12px 25px;
+            margin: 0 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            color: white;
+        }
+        .btn-merge {
+            background: #2ecc71;
+        }
+        .btn-separate {
+            background: #e74c3c;
+        }
+        .btn-skip {
+            background: #7f8c8d;
+        }
+        .btn:hover {
+            opacity: 0.9;
+        }
+        .stats-banner {
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 6px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .nav-links {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .nav-link {
+            display: inline-block;
+            padding: 8px 16px;
+            background: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>合并建议审核</h1>
+        
+        <div class="stats-banner">
+            <strong>进度:</strong> 已处理 {{ stats.processed }} / {{ stats.total }} ({{ "%.1f"|format(stats.progress) }}%)
+        </div>
+        
+        <div class="header">
+            <h2>相似度分析</h2>
+            <div class="similarity-score">相似度: {{ "%.4f"|format(similarity_score) }}</div>
+            <p>请查看以下两组图片，判断它们是否属于同一产品的不同变体（如不同颜色、尺寸等）</p>
+        </div>
+        
+        <form id="decision-form" action="/merge-decision" method="post">
+            <input type="hidden" name="suggestion_id" value="{{ suggestion_id }}">
+            <input type="hidden" name="group_a" value="{{ suggestion.group_a }}">
+            <input type="hidden" name="group_b" value="{{ suggestion.group_b }}">
+            <input type="hidden" name="similarity_score" value="{{ similarity_score }}">
+            
+            <div class="groups-container">
+                <div class="group">
+                    <div class="group-title">分组 A</div>
+                    <div class="group-id">{{ suggestion.group_a }}</div>
+                    <div class="images-container">
+                        {% for img in group_a_images %}
+                        <div class="image-item">
+                            <img src="/static/{{ img }}" alt="{{ img }}" class="image-preview" onerror="this.onerror=null; this.src='data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;100&quot; height=&quot;100&quot; viewBox=&quot;0 0 100 100&quot;><rect width=&quot;100&quot; height=&quot;100&quot; fill=&quot;#eee&quot;/><text x=&quot;50&quot; y=&quot;55&quot; font-family=&quot;Arial&quot; font-size=&quot;12&quot; text-anchor=&quot;middle&quot;>图片未找到</text></svg>';">
+                            <div class="image-name">{{ img.split('/')[-1][:20] }}...</div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                
+                <div class="group">
+                    <div class="group-title">分组 B</div>
+                    <div class="group-id">{{ suggestion.group_b }}</div>
+                    <div class="images-container">
+                        {% for img in group_b_images %}
+                        <div class="image-item">
+                            <img src="/static/{{ img }}" alt="{{ img }}" class="image-preview" onerror="this.onerror=null; this.src='data:image/svg+xml;utf8,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;100&quot; height=&quot;100&quot; viewBox=&quot;0 0 100 100&quot;><rect width=&quot;100&quot; height=&quot;100&quot; fill=&quot;#eee&quot;/><text x=&quot;50&quot; y=&quot;55&quot; font-family=&quot;Arial&quot; font-size=&quot;12&quot; text-anchor=&quot;middle&quot;>图片未找到</text></svg>';">
+                            <div class="image-name">{{ img.split('/')[-1][:20] }}...</div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            
+            <div class="controls">
+                <button type="submit" name="decision" value="merge" class="btn btn-merge">合并分组</button>
+                <button type="submit" name="decision" value="separate" class="btn btn-separate">保持分离</button>
+                <button type="submit" name="decision" value="skip" class="btn btn-skip">跳过此建议</button>
+            </div>
+        </form>
+        
+        <div class="nav-links">
+            <a href="/" class="nav-link">返回首页</a>
+            <a href="/merge-review" class="nav-link">下一个建议</a>
+        </div>
+    </div>
+    
+    <script>
+        document.getElementById('decision-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            
+            fetch('/merge-decision', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    // 成功后跳转到下一个建议
+                    window.location.href = '/merge-review';
+                } else {
+                    alert('处理失败: ' + (data.error || '未知错误'));
+                }
+            })
+            .catch(error => {
+                alert('请求失败: ' + error.message);
+            });
+        });
+    </script>
+</body>
+</html>
