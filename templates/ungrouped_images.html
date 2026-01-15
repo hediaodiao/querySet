@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>未分组图片</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 30px;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 15px;
+        }
+        .stats-banner {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .controls {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .control-btn {
+            padding: 8px 15px;
+            margin: 0 5px;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .control-btn:hover {
+            background: #2980b9;
+        }
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 15px;
+        }
+        .image-item {
+            text-align: center;
+            position: relative;
+        }
+        .image-item img {
+            max-width: 100%;
+            max-height: 150px;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            object-fit: cover;
+        }
+        .image-checkbox {
+            position: absolute;
+            top: 5px;
+            left: 5px;
+            z-index: 10;
+        }
+        .image-caption {
+            margin-top: 5px;
+            font-size: 12px;
+            color: #666;
+            word-break: break-all;
+            padding: 0 5px;
+        }
+        .pagination {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .page-btn {
+            padding: 8px 15px;
+            margin: 0 5px;
+            background: #7f8c8d;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .page-btn.active {
+            background: #3498db;
+        }
+        .page-btn:not(.active):hover {
+            background: #95a5a6;
+        }
+        .status-message {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 4px;
+            display: none;
+        }
+        .status-success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .status-error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div style="text-align: center; margin-bottom: 20px;">
+            <a href="/api/group-stats" class="control-btn" style="background: #7f8c8d; text-decoration: none; display: inline-block;">返回统计详情</a>
+        </div>
+        
+        <h1>未分组图片</h1>
+        
+        <div class="stats-banner">
+            总计: <span id="total-count">0</span> 张 | 
+            当前页: <span id="current-page">1</span> / <span id="total-pages">1</span> |
+            本页: <span id="page-size">0</span> 张
+        </div>
+        
+        <div class="controls">
+            <button class="control-btn" onclick="selectAllImages()">全选</button>
+            <button class="control-btn" onclick="selectNoneImages()">取消全选</button>
+            <button class="control-btn" onclick="createNewGroupFromSelection()">创建新组</button>
+            <button class="control-btn" onclick="addToExistingGroup()">添加到现有组</button>
+            <div id="status-message" class="status-message"></div>
+        </div>
+        
+        <div id="image-grid" class="image-grid">
+            <!-- 图片将通过JavaScript动态加载 -->
+        </div>
+        
+        <div class="pagination" id="pagination">
+            <!-- 分页控件将通过JavaScript动态加载 -->
+        </div>
+    </div>
+    
+    <script>
+        let ungroupedImages = [];
+        let currentPage = 1;
+        const pageSize = 50; // 每页显示50张图片
+        
+        async function loadUngroupedImages(page = 1) {
+            try {
+                const response = await fetch(`/api/ungrouped-images?page=${page}&size=${pageSize}`);
+                if (response.ok) {
+                    const data = await response.json();
+                    ungroupedImages = data.images;
+                    currentPage = page;
+                    
+                    document.getElementById('total-count').textContent = data.total_count;
+                    document.getElementById('current-page').textContent = data.current_page;
+                    document.getElementById('total-pages').textContent = data.total_pages;
+                    document.getElementById('page-size').textContent = data.page_size;
+                    
+                    renderImages();
+                    renderPagination(data.total_pages, data.current_page);
+                } else {
+                    showMessage('加载未分组图片失败', false);
+                }
+            } catch (error) {
+                showMessage('加载图片请求失败: ' + error.message, false);
+            }
+        }
+        
+        function renderImages() {
+            const grid = document.getElementById('image-grid');
+            grid.innerHTML = '';
+            
+            ungroupedImages.forEach(img => {
+                const imgElement = document.createElement('div');
+                imgElement.className = 'image-item';
+                // 移除路径开头的 'Pic/' 部分以匹配静态文件配置
+                const imagePath = img.startsWith('Pic/') ? img.substring(4) : img;
+                imgElement.innerHTML = `
+                    <input type="checkbox" class="image-checkbox" value="\${img}">
+                    <img src="/static/\${imagePath}" alt="\${img}" onerror="this.style.display='none'">
+                    <div class="image-caption">\${img.split('/').pop()}</div>
+                `;
+                grid.appendChild(imgElement);
+            });
+        }
+        
+        function renderPagination(totalPages, currentPage) {
+            const pagination = document.getElementById('pagination');
+            pagination.innerHTML = '';
+            
+            if (totalPages <= 1) return;
+            
+            // 上一页
+            if (currentPage > 1) {
+                const prevBtn = document.createElement('button');
+                prevBtn.className = 'page-btn';
+                prevBtn.textContent = '上一页';
+                prevBtn.onclick = () => loadUngroupedImages(currentPage - 1);
+                pagination.appendChild(prevBtn);
+            }
+            
+            // 页码
+            const startPage = Math.max(1, currentPage - 2);
+            const endPage = Math.min(totalPages, currentPage + 2);
+            
+            for (let i = startPage; i <= endPage; i++) {
+                const pageBtn = document.createElement('button');
+                pageBtn.className = `page-btn ${i === currentPage ? 'active' : ''}`;
+                pageBtn.textContent = i;
+                pageBtn.onclick = () => loadUngroupedImages(i);
+                pagination.appendChild(pageBtn);
+            }
+            
+            // 下一页
+            if (currentPage < totalPages) {
+                const nextBtn = document.createElement('button');
+                nextBtn.className = 'page-btn';
+                nextBtn.textContent = '下一页';
+                nextBtn.onclick = () => loadUngroupedImages(currentPage + 1);
+                pagination.appendChild(nextBtn);
+            }
+        }
+        
+        function selectAllImages() {
+            const checkboxes = document.querySelectorAll('.image-checkbox');
+            checkboxes.forEach(cb => cb.checked = true);
+        }
+        
+        function selectNoneImages() {
+            const checkboxes = document.querySelectorAll('.image-checkbox');
+            checkboxes.forEach(cb => cb.checked = false);
+        }
+        
+        function getSelectedImages() {
+            const selected = [];
+            document.querySelectorAll('.image-checkbox:checked').forEach(cb => {
+                selected.push(cb.value);
+            });
+            return selected;
+        }
+        
+        async function createNewGroupFromSelection() {
+            const selectedImages = getSelectedImages();
+            if (selectedImages.length === 0) {
+                showMessage('请至少选择一张图片来创建新组', false);
+                return;
+            }
+            
+            if (!confirm(`确定要将选中的 ${selectedImages.length} 张图片创建为新组吗？`)) {
+                return;
+            }
+            
+            try {
+                const response = await fetch('/api/create-group-from-images', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        images: selectedImages
+                    })
+                });
+                
+                if (response.ok) {
+                    const result = await response.json();
+                    showMessage(result.message, true);
+                    // 重新加载当前页
+                    loadUngroupedImages(currentPage);
+                } else {
+                    const error = await response.text();
+                    showMessage('创建组失败: ' + error, false);
+                }
+            } catch (error) {
+                showMessage('创建组请求失败: ' + error.message, false);
+            }
+        }
+        
+        async function addToExistingGroup() {
+            const selectedImages = getSelectedImages();
+            if (selectedImages.length === 0) {
+                showMessage('请至少选择一张图片添加到现有组', false);
+                return;
+            }
+            
+            alert('功能开发中：选择要添加到的目标组');
+            // TODO: 实现选择目标组的界面
+        }
+        
+        function showMessage(message, isSuccess) {
+            const statusDiv = document.getElementById('status-message');
+            statusDiv.textContent = message;
+            statusDiv.className = 'status-message ' + (isSuccess ? 'status-success' : 'status-error');
+            statusDiv.style.display = 'block';
+            
+            setTimeout(() => {
+                statusDiv.style.display = 'none';
+            }, 3000);
+        }
+        
+        // 页面加载时自动加载第一页
+        document.addEventListener('DOMContentLoaded', function() {
+            loadUngroupedImages(1);
+        });
+    </script>
+</body>
+</html>

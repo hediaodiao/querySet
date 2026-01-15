@@ -1,21 +1,5 @@
 [
   {
-    "query_image": "buildingBlock/P17582529871828677_17582529878102350702.jpg",
-    "relevant_images": [
-      "buildingBlock/P17582529315553234_17582529320536664865.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17582529"
-  },
-  {
-    "query_image": "buildingBlock/P17582529315553234_17582529320536664865.jpg",
-    "relevant_images": [
-      "buildingBlock/P17582529871828677_17582529878102350702.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17582529"
-  },
-  {
     "query_image": "buildingBlock/P17573274837297861_17573274842972777132.jpg",
     "relevant_images": [
       "buildingBlock/P17573274851438868_17573274858958781516.jpg"
@@ -24,26 +8,8 @@
     "product_id": "17573274"
   },
   {
-    "query_image": "buildingBlock/P17573274851438868_17573274858958781516.jpg",
-    "relevant_images": [
-      "buildingBlock/P17573274837297861_17573274842972777132.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17573274"
-  },
-  {
-    "query_image": "buildingBlock/P17549871361863534_17549871366922957565.jpg",
-    "relevant_images": [
-      "buildingBlock/P17549871105254163_17549871110327646593.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17549871"
-  },
-  {
     "query_image": "buildingBlock/P17549871105254163_17549871110327646593.jpg",
-    "relevant_images": [
-      "buildingBlock/P17549871361863534_17549871366922957565.jpg"
-    ],
+    "relevant_images": [],
     "category": "buildingBlock",
     "product_id": "17549871"
   },
@@ -51,14 +17,6 @@
     "query_image": "buildingBlock/P17675959565586275_17675959573575556418.jpg",
     "relevant_images": [
       "buildingBlock/P17675959236229433_17675960662628835863.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17675959"
-  },
-  {
-    "query_image": "buildingBlock/P17675959236229433_17675960662628835863.jpg",
-    "relevant_images": [
-      "buildingBlock/P17675959565586275_17675959573575556418.jpg"
     ],
     "category": "buildingBlock",
     "product_id": "17675959"
@@ -73,9 +31,7 @@
   },
   {
     "query_image": "buildingBlock/P17254136862749594_17254136867301152940.jpg",
-    "relevant_images": [
-      "buildingBlock/P17254136911101533_17254136915933886552.jpg"
-    ],
+    "relevant_images": [],
     "category": "buildingBlock",
     "product_id": "17254136"
   },
@@ -83,14 +39,6 @@
     "query_image": "buildingBlock/P17654480482882328_17654480488599468259.jpg",
     "relevant_images": [
       "buildingBlock/P17654480663236709_17654480671219469880.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17654480"
-  },
-  {
-    "query_image": "buildingBlock/P17654480663236709_17654480671219469880.jpg",
-    "relevant_images": [
-      "buildingBlock/P17654480482882328_17654480488599468259.jpg"
     ],
     "category": "buildingBlock",
     "product_id": "17654480"
@@ -105,24 +53,6 @@
     "product_id": "17654474"
   },
   {
-    "query_image": "buildingBlock/P17654474459663272_17654474465269531270.jpg",
-    "relevant_images": [
-      "buildingBlock/P17654474633031795_17654474638793122912.jpg",
-      "buildingBlock/P17654474476825684_17654474482672646146.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17654474"
-  },
-  {
-    "query_image": "buildingBlock/P17654474476825684_17654474482672646146.jpg",
-    "relevant_images": [
-      "buildingBlock/P17654474633031795_17654474638793122912.jpg",
-      "buildingBlock/P17654474459663272_17654474465269531270.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17654474"
-  },
-  {
     "query_image": "buildingBlock/P17496911978817556_17496911985029098366.jpg",
     "relevant_images": [
       "buildingBlock/P17496911948368326_17496911955952153772.jpg"
@@ -131,27 +61,9 @@
     "product_id": "17496911"
   },
   {
-    "query_image": "buildingBlock/P17496911948368326_17496911955952153772.jpg",
-    "relevant_images": [
-      "buildingBlock/P17496911978817556_17496911985029098366.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17496911"
-  },
-  {
     "query_image": "buildingBlock/P17467817223078390_17467817228758778809.png",
     "relevant_images": [
-      "buildingBlock/P17467817442179954_17467817447895737547.png",
-      "buildingBlock/P17467817326082688_17467817332405454789.png"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17467817"
-  },
-  {
-    "query_image": "buildingBlock/P17467817442179954_17467817447895737547.png",
-    "relevant_images": [
-      "buildingBlock/P17467817223078390_17467817228758778809.png",
-      "buildingBlock/P17467817326082688_17467817332405454789.png"
+      "buildingBlock/P17467817442179954_17467817447895737547.png"
     ],
     "category": "buildingBlock",
     "product_id": "17467817"
@@ -159,8 +71,8 @@
   {
     "query_image": "buildingBlock/P17467817326082688_17467817332405454789.png",
     "relevant_images": [
-      "buildingBlock/P17467817223078390_17467817228758778809.png",
-      "buildingBlock/P17467817442179954_17467817447895737547.png"
+      "buildingBlock/P17467817442179954_17467817447895737547.png",
+      "buildingBlock/P17467817223078390_17467817228758778809.png"
     ],
     "category": "buildingBlock",
     "product_id": "17467817"
@@ -174,25 +86,9 @@
     "product_id": "17641515"
   },
   {
-    "query_image": "buildingBlock/P17641515268365391_17641515274487796289.jpg",
-    "relevant_images": [
-      "buildingBlock/P17641515290446912_17641515296114978994.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17641515"
-  },
-  {
     "query_image": "buildingBlock/P17547055542993014_17547055547801202383.jpg",
     "relevant_images": [
       "buildingBlock/P17547055445149547_17547055451247363226.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17547055"
-  },
-  {
-    "query_image": "buildingBlock/P17547055445149547_17547055451247363226.jpg",
-    "relevant_images": [
-      "buildingBlock/P17547055542993014_17547055547801202383.jpg"
     ],
     "category": "buildingBlock",
     "product_id": "17547055"
@@ -206,25 +102,9 @@
     "product_id": "17496912"
   },
   {
-    "query_image": "buildingBlock/P17496912010406638_17496912016802036149.jpg",
-    "relevant_images": [
-      "buildingBlock/P17496912031446202_17496912037319731468.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17496912"
-  },
-  {
     "query_image": "buildingBlock/P17654481565271275_17654481572844505198.jpg",
     "relevant_images": [
       "buildingBlock/P17654481085095647_17654481090653073012.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17654481"
-  },
-  {
-    "query_image": "buildingBlock/P17654481085095647_17654481090653073012.jpg",
-    "relevant_images": [
-      "buildingBlock/P17654481565271275_17654481572844505198.jpg"
     ],
     "category": "buildingBlock",
     "product_id": "17654481"
@@ -238,25 +118,10 @@
     "product_id": "17658839"
   },
   {
-    "query_image": "buildingBlock/P17658839213218478_17658839219046415018.png",
-    "relevant_images": [
-      "buildingBlock/P17658839560824246_17658839567041842035.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17658839"
-  },
-  {
     "query_image": "buildingBlock/P17496137462627542_17500817130164909739.jpg",
     "relevant_images": [
-      "buildingBlock/P17496137462627542_17500817151696805494.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17496137"
-  },
-  {
-    "query_image": "buildingBlock/P17496137462627542_17500817151696805494.jpg",
-    "relevant_images": [
-      "buildingBlock/P17496137462627542_17500817130164909739.jpg"
+      "buildingBlock/P17496137462627542_17500817151696805494.jpg",
+      "buildingBlock/P17467817326082688_17467817332405454789.png"
     ],
     "category": "buildingBlock",
     "product_id": "17496137"
@@ -271,35 +136,10 @@
     "product_id": "17467839"
   },
   {
-    "query_image": "buildingBlock/P17467839957228021_17467839963195557243.jpg",
-    "relevant_images": [
-      "buildingBlock/P17467839590452522_17467839596911383423.jpg",
-      "buildingBlock/P17467839990325574_17467839995962926105.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17467839"
-  },
-  {
-    "query_image": "buildingBlock/P17467839990325574_17467839995962926105.jpg",
-    "relevant_images": [
-      "buildingBlock/P17467839590452522_17467839596911383423.jpg",
-      "buildingBlock/P17467839957228021_17467839963195557243.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17467839"
-  },
-  {
     "query_image": "buildingBlock/P17092883150876993_17297371919617753730.jpg",
     "relevant_images": [
-      "buildingBlock/P17092883078749753_17297370377807414049.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17092883"
-  },
-  {
-    "query_image": "buildingBlock/P17092883078749753_17297370377807414049.jpg",
-    "relevant_images": [
-      "buildingBlock/P17092883150876993_17297371919617753730.jpg"
+      "buildingBlock/P17092883078749753_17297370377807414049.jpg",
+      "buildingBlock/P17254136911101533_17254136915933886552.jpg"
     ],
     "category": "buildingBlock",
     "product_id": "17092883"
@@ -307,15 +147,8 @@
   {
     "query_image": "buildingBlock/P17446848142598868_665678606307397.jpg",
     "relevant_images": [
-      "buildingBlock/P17446848112697906_665678642774085.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17446848"
-  },
-  {
-    "query_image": "buildingBlock/P17446848112697906_665678642774085.jpg",
-    "relevant_images": [
-      "buildingBlock/P17446848142598868_665678606307397.jpg"
+      "buildingBlock/P17446848112697906_665678642774085.jpg",
+      "watergun/P17404727409469355_17404727414348612985.jpg"
     ],
     "category": "buildingBlock",
     "product_id": "17446848"
@@ -329,14 +162,6 @@
     "product_id": "17657768"
   },
   {
-    "query_image": "buildingBlock/P17657768659654179_752069042864198.jpg",
-    "relevant_images": [
-      "buildingBlock/P17657768142964267_752068803342406.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17657768"
-  },
-  {
     "query_image": "buildingBlock/P17558501558681818_17558501564526294748.jpg",
     "relevant_images": [
       "buildingBlock/P17558501697714320_17558501704717802642.jpg"
@@ -345,25 +170,10 @@
     "product_id": "17558501"
   },
   {
-    "query_image": "buildingBlock/P17558501697714320_17558501704717802642.jpg",
-    "relevant_images": [
-      "buildingBlock/P17558501558681818_17558501564526294748.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17558501"
-  },
-  {
     "query_image": "buildingBlock/P17631096814075978_17631096824088884532.jpg",
     "relevant_images": [
-      "buildingBlock/P17631096752513370_17631096765351555876.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17631096"
-  },
-  {
-    "query_image": "buildingBlock/P17631096752513370_17631096765351555876.jpg",
-    "relevant_images": [
-      "buildingBlock/P17631096814075978_17631096824088884532.jpg"
+      "buildingBlock/P17631096752513370_17631096765351555876.jpg",
+      "buildingBlock/P17446848112697906_665678642774085.jpg"
     ],
     "category": "buildingBlock",
     "product_id": "17631096"
@@ -377,14 +187,6 @@
     "product_id": "17628263"
   },
   {
-    "query_image": "buildingBlock/P17628263862467460_17628263868349943797.jpg",
-    "relevant_images": [
-      "buildingBlock/P17628263154744848_17628263162147247243.jpg"
-    ],
-    "category": "buildingBlock",
-    "product_id": "17628263"
-  },
-  {
     "query_image": "watergun/P17650054499467774_17650054505385030081.jpg",
     "relevant_images": [
       "watergun/P17650054473287437_17650054480829409039.jpg"
@@ -393,36 +195,11 @@
     "product_id": "17650054"
   },
   {
-    "query_image": "watergun/P17650054473287437_17650054480829409039.jpg",
-    "relevant_images": [
-      "watergun/P17650054499467774_17650054505385030081.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17650054"
-  },
-  {
     "query_image": "watergun/P17447748640261128_666046839078982.jpg",
     "relevant_images": [
       "watergun/P17447748499148088_666046799732809.jpg",
-      "watergun/P17447748938434134_666046735650887.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17447748"
-  },
-  {
-    "query_image": "watergun/P17447748499148088_666046799732809.jpg",
-    "relevant_images": [
-      "watergun/P17447748640261128_666046839078982.jpg",
-      "watergun/P17447748938434134_666046735650887.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17447748"
-  },
-  {
-    "query_image": "watergun/P17447748938434134_666046735650887.jpg",
-    "relevant_images": [
-      "watergun/P17447748640261128_666046839078982.jpg",
-      "watergun/P17447748499148088_666046799732809.jpg"
+      "watergun/P17447748938434134_666046735650887.jpg",
+      "watergun/P17639772760876063_17639772766489796458.jpg"
     ],
     "category": "watergun",
     "product_id": "17447748"
@@ -436,25 +213,9 @@
     "product_id": "17481692"
   },
   {
-    "query_image": "watergun/P17481692799636514_17497109583284512265.jpg",
-    "relevant_images": [
-      "watergun/P17481692752288933_17497111684215600968.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17481692"
-  },
-  {
     "query_image": "watergun/P17463706315419295_17463706320339097358.jpg",
     "relevant_images": [
       "watergun/P17463706106544930_17467744863233818077.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17463706"
-  },
-  {
-    "query_image": "watergun/P17463706106544930_17467744863233818077.jpg",
-    "relevant_images": [
-      "watergun/P17463706315419295_17463706320339097358.jpg"
     ],
     "category": "watergun",
     "product_id": "17463706"
@@ -468,14 +229,6 @@
     "product_id": "17405461"
   },
   {
-    "query_image": "watergun/P17405461344411058_17405461350534510966.jpg",
-    "relevant_images": [
-      "watergun/P17405461235416578_17405461240571502512.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17405461"
-  },
-  {
     "query_image": "watergun/P17405460182155236_17405460187523136759.jpg",
     "relevant_images": [
       "watergun/P17405460554865572_17405460560316945890.jpg"
@@ -484,25 +237,9 @@
     "product_id": "17405460"
   },
   {
-    "query_image": "watergun/P17405460554865572_17405460560316945890.jpg",
-    "relevant_images": [
-      "watergun/P17405460182155236_17405460187523136759.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17405460"
-  },
-  {
     "query_image": "watergun/P17101315103172579_17102140920594872601.jpg",
     "relevant_images": [
       "watergun/P17101315498988495_17102120303502817733.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17101315"
-  },
-  {
-    "query_image": "watergun/P17101315498988495_17102120303502817733.jpg",
-    "relevant_images": [
-      "watergun/P17101315103172579_17102140920594872601.jpg"
     ],
     "category": "watergun",
     "product_id": "17101315"
@@ -517,9 +254,7 @@
   },
   {
     "query_image": "watergun/P17658769975864618_17658769987874934583.jpg",
-    "relevant_images": [
-      "watergun/P17658769544197209_17658769556748991061.jpg"
-    ],
+    "relevant_images": [],
     "category": "watergun",
     "product_id": "17658769"
   },
@@ -527,9 +262,9 @@
     "query_image": "watergun/P17404727409469355_17404727414348612985.jpg",
     "relevant_images": [
       "watergun/P17404727804996657_17404727810113255347.jpg",
-      "watergun/P17404727636744037_17404727641666837107.jpg",
+      "watergun/P17404727524104835_17404727531386602868.jpg",
       "watergun/P17404727428131294_17404727434054180240.jpg",
-      "watergun/P17404727524104835_17404727531386602868.jpg"
+      "watergun/P17404727636744037_17404727641666837107.jpg"
     ],
     "category": "watergun",
     "product_id": "17404727"
@@ -537,43 +272,9 @@
   {
     "query_image": "watergun/P17404727804996657_17404727810113255347.jpg",
     "relevant_images": [
-      "watergun/P17404727409469355_17404727414348612985.jpg",
-      "watergun/P17404727636744037_17404727641666837107.jpg",
+      "watergun/P17404727524104835_17404727531386602868.jpg",
       "watergun/P17404727428131294_17404727434054180240.jpg",
-      "watergun/P17404727524104835_17404727531386602868.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17404727"
-  },
-  {
-    "query_image": "watergun/P17404727636744037_17404727641666837107.jpg",
-    "relevant_images": [
-      "watergun/P17404727409469355_17404727414348612985.jpg",
-      "watergun/P17404727804996657_17404727810113255347.jpg",
-      "watergun/P17404727428131294_17404727434054180240.jpg",
-      "watergun/P17404727524104835_17404727531386602868.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17404727"
-  },
-  {
-    "query_image": "watergun/P17404727428131294_17404727434054180240.jpg",
-    "relevant_images": [
-      "watergun/P17404727409469355_17404727414348612985.jpg",
-      "watergun/P17404727804996657_17404727810113255347.jpg",
-      "watergun/P17404727636744037_17404727641666837107.jpg",
-      "watergun/P17404727524104835_17404727531386602868.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17404727"
-  },
-  {
-    "query_image": "watergun/P17404727524104835_17404727531386602868.jpg",
-    "relevant_images": [
-      "watergun/P17404727409469355_17404727414348612985.jpg",
-      "watergun/P17404727804996657_17404727810113255347.jpg",
-      "watergun/P17404727636744037_17404727641666837107.jpg",
-      "watergun/P17404727428131294_17404727434054180240.jpg"
+      "watergun/P17404727636744037_17404727641666837107.jpg"
     ],
     "category": "watergun",
     "product_id": "17404727"
@@ -587,25 +288,9 @@
     "product_id": "17090871"
   },
   {
-    "query_image": "watergun/P17090871655083671_17090871661495848676.png",
-    "relevant_images": [
-      "watergun/P17090871569854884_17293094780917114569.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17090871"
-  },
-  {
     "query_image": "watergun/P17424641253396599_17424641259519772876.jpg",
     "relevant_images": [
       "watergun/P17424641193784825_17424641199531163376.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17424641"
-  },
-  {
-    "query_image": "watergun/P17424641193784825_17424641199531163376.jpg",
-    "relevant_images": [
-      "watergun/P17424641253396599_17424641259519772876.jpg"
     ],
     "category": "watergun",
     "product_id": "17424641"
@@ -619,25 +304,10 @@
     "product_id": "16599535"
   },
   {
-    "query_image": "watergun/P16599535727799210_16830951447791413054.jpg",
-    "relevant_images": [
-      "watergun/P16599535727799210_16830951464537794558.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "16599535"
-  },
-  {
     "query_image": "watergun/P16521541464117398_16830950470893967503.jpg",
     "relevant_images": [
-      "watergun/P16521541464117398_16830950469816781920.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "16521541"
-  },
-  {
-    "query_image": "watergun/P16521541464117398_16830950469816781920.jpg",
-    "relevant_images": [
-      "watergun/P16521541464117398_16830950470893967503.jpg"
+      "watergun/P16521541464117398_16830950469816781920.jpg",
+      "watergun/P17658769544197209_17658769556748991061.jpg"
     ],
     "category": "watergun",
     "product_id": "16521541"
@@ -651,36 +321,11 @@
     "product_id": "17661944"
   },
   {
-    "query_image": "watergun/P17661944912115751_17661944918231944872.jpg",
-    "relevant_images": [
-      "watergun/P17661944761625532_17661944768148681383.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17661944"
-  },
-  {
     "query_image": "watergun/P17670631576681898_17670631582539518904.jpg",
     "relevant_images": [
       "watergun/P17670631639046484_17670631647956297845.jpg",
-      "watergun/P17670631621113469_17670631631225925901.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17670631"
-  },
-  {
-    "query_image": "watergun/P17670631639046484_17670631647956297845.jpg",
-    "relevant_images": [
-      "watergun/P17670631576681898_17670631582539518904.jpg",
-      "watergun/P17670631621113469_17670631631225925901.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17670631"
-  },
-  {
-    "query_image": "watergun/P17670631621113469_17670631631225925901.jpg",
-    "relevant_images": [
-      "watergun/P17670631576681898_17670631582539518904.jpg",
-      "watergun/P17670631639046484_17670631647956297845.jpg"
+      "watergun/P17670631621113469_17670631631225925901.jpg",
+      "buildingBlock/P17573274851438868_17573274858958781516.jpg"
     ],
     "category": "watergun",
     "product_id": "17670631"
@@ -694,25 +339,10 @@
     "product_id": "17520320"
   },
   {
-    "query_image": "watergun/P17520320486838137_695765638107213.jpg",
-    "relevant_images": [
-      "watergun/P17520320456894278_695765638107208.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17520320"
-  },
-  {
     "query_image": "watergun/P17282789828393955_598468553146438.jpg",
     "relevant_images": [
-      "watergun/P17282789753296743_598468588122181.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17282789"
-  },
-  {
-    "query_image": "watergun/P17282789753296743_598468588122181.jpg",
-    "relevant_images": [
-      "watergun/P17282789828393955_598468553146438.jpg"
+      "watergun/P17282789753296743_598468588122181.jpg",
+      "watergun/P17404727409469355_17404727414348612985.jpg"
     ],
     "category": "watergun",
     "product_id": "17282789"
@@ -726,42 +356,11 @@
     "product_id": "17228442"
   },
   {
-    "query_image": "watergun/P17228442260573963_17228442266381300877.jpg",
-    "relevant_images": [
-      "watergun/P17228442379528058_17228442384034062195.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17228442"
-  },
-  {
     "query_image": "watergun/P17337425237488768_620850059092038.jpg",
     "relevant_images": [
       "watergun/P17337425985799731_620850209562693.jpg",
-      "watergun/P17337425176748119_620850096521285.jpg",
-      "watergun/P17337425871906678_620849920540741.png",
-      "watergun/P17337425135935727_620850034909254.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17337425"
-  },
-  {
-    "query_image": "watergun/P17337425985799731_620850209562693.jpg",
-    "relevant_images": [
-      "watergun/P17337425237488768_620850059092038.jpg",
-      "watergun/P17337425176748119_620850096521285.jpg",
-      "watergun/P17337425871906678_620849920540741.png",
-      "watergun/P17337425135935727_620850034909254.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17337425"
-  },
-  {
-    "query_image": "watergun/P17337425176748119_620850096521285.jpg",
-    "relevant_images": [
-      "watergun/P17337425237488768_620850059092038.jpg",
-      "watergun/P17337425985799731_620850209562693.jpg",
-      "watergun/P17337425871906678_620849920540741.png",
-      "watergun/P17337425135935727_620850034909254.jpg"
+      "watergun/P17337425135935727_620850034909254.jpg",
+      "watergun/P17337425176748119_620850096521285.jpg"
     ],
     "category": "watergun",
     "product_id": "17337425"
@@ -769,21 +368,10 @@
   {
     "query_image": "watergun/P17337425871906678_620849920540741.png",
     "relevant_images": [
-      "watergun/P17337425237488768_620850059092038.jpg",
       "watergun/P17337425985799731_620850209562693.jpg",
-      "watergun/P17337425176748119_620850096521285.jpg",
-      "watergun/P17337425135935727_620850034909254.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17337425"
-  },
-  {
-    "query_image": "watergun/P17337425135935727_620850034909254.jpg",
-    "relevant_images": [
+      "watergun/P17337425135935727_620850034909254.jpg",
       "watergun/P17337425237488768_620850059092038.jpg",
-      "watergun/P17337425985799731_620850209562693.jpg",
-      "watergun/P17337425176748119_620850096521285.jpg",
-      "watergun/P17337425871906678_620849920540741.png"
+      "watergun/P17337425176748119_620850096521285.jpg"
     ],
     "category": "watergun",
     "product_id": "17337425"
@@ -793,37 +381,8 @@
     "relevant_images": [
       "watergun/P17639772039327058_17639772045276518217.jpg",
       "watergun/P17639772724212164_17639772729368530025.jpg",
-      "watergun/P17639772806417498_17639772812182248290.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17639772"
-  },
-  {
-    "query_image": "watergun/P17639772039327058_17639772045276518217.jpg",
-    "relevant_images": [
-      "watergun/P17639772760876063_17639772766489796458.jpg",
-      "watergun/P17639772724212164_17639772729368530025.jpg",
-      "watergun/P17639772806417498_17639772812182248290.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17639772"
-  },
-  {
-    "query_image": "watergun/P17639772724212164_17639772729368530025.jpg",
-    "relevant_images": [
-      "watergun/P17639772760876063_17639772766489796458.jpg",
-      "watergun/P17639772039327058_17639772045276518217.jpg",
-      "watergun/P17639772806417498_17639772812182248290.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17639772"
-  },
-  {
-    "query_image": "watergun/P17639772806417498_17639772812182248290.jpg",
-    "relevant_images": [
-      "watergun/P17639772760876063_17639772766489796458.jpg",
-      "watergun/P17639772039327058_17639772045276518217.jpg",
-      "watergun/P17639772724212164_17639772729368530025.jpg"
+      "watergun/P17639772806417498_17639772812182248290.jpg",
+      "watergun/P17337425871906678_620849920540741.png"
     ],
     "category": "watergun",
     "product_id": "17639772"
@@ -837,25 +396,9 @@
     "product_id": "16889740"
   },
   {
-    "query_image": "watergun/P16889740763875498_17477267114283081940.jpg",
-    "relevant_images": [
-      "watergun/P16889740763875498_17477267088183617292.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "16889740"
-  },
-  {
     "query_image": "watergun/P17559421061743160_711793195831366.png",
     "relevant_images": [
       "watergun/P17559421504549517_711786911948870.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17559421"
-  },
-  {
-    "query_image": "watergun/P17559421504549517_711786911948870.jpg",
-    "relevant_images": [
-      "watergun/P17559421061743160_711793195831366.png"
     ],
     "category": "watergun",
     "product_id": "17559421"
@@ -865,37 +408,8 @@
     "relevant_images": [
       "watergun/P16716025798144139_17645768171631525672.jpg",
       "watergun/P16716025798144139_17645768119707860748.jpg",
-      "watergun/P16716025798144139_17645768108868360343.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "16716025"
-  },
-  {
-    "query_image": "watergun/P16716025798144139_17645768171631525672.jpg",
-    "relevant_images": [
-      "watergun/P16716025798144139_17645768097244180482.jpg",
-      "watergun/P16716025798144139_17645768119707860748.jpg",
-      "watergun/P16716025798144139_17645768108868360343.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "16716025"
-  },
-  {
-    "query_image": "watergun/P16716025798144139_17645768119707860748.jpg",
-    "relevant_images": [
-      "watergun/P16716025798144139_17645768097244180482.jpg",
-      "watergun/P16716025798144139_17645768171631525672.jpg",
-      "watergun/P16716025798144139_17645768108868360343.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "16716025"
-  },
-  {
-    "query_image": "watergun/P16716025798144139_17645768108868360343.jpg",
-    "relevant_images": [
-      "watergun/P16716025798144139_17645768097244180482.jpg",
-      "watergun/P16716025798144139_17645768171631525672.jpg",
-      "watergun/P16716025798144139_17645768119707860748.jpg"
+      "watergun/P16716025798144139_17645768108868360343.jpg",
+      "buildingBlock/P17628263154744848_17628263162147247243.jpg"
     ],
     "category": "watergun",
     "product_id": "16716025"
@@ -909,25 +423,9 @@
     "product_id": "17606843"
   },
   {
-    "query_image": "watergun/P17606843506591159_17606843513637316470.jpg",
-    "relevant_images": [
-      "watergun/P17606843654507667_17606843663347604925.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17606843"
-  },
-  {
     "query_image": "watergun/P17387251453047442_17429784377207952043.jpg",
     "relevant_images": [
       "watergun/P17387251553403751_17387251558863707486.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17387251"
-  },
-  {
-    "query_image": "watergun/P17387251553403751_17387251558863707486.jpg",
-    "relevant_images": [
-      "watergun/P17387251453047442_17429784377207952043.jpg"
     ],
     "category": "watergun",
     "product_id": "17387251"
@@ -941,25 +439,9 @@
     "product_id": "17425465"
   },
   {
-    "query_image": "watergun/P17425465368827128_17425465375662264968.jpg",
-    "relevant_images": [
-      "watergun/P17425465244346371_17425465251333457019.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17425465"
-  },
-  {
     "query_image": "watergun/P17525587168356305_17525587178442367498.jpg",
     "relevant_images": [
       "watergun/P17525587451297395_17525587457508110034.jpg"
-    ],
-    "category": "watergun",
-    "product_id": "17525587"
-  },
-  {
-    "query_image": "watergun/P17525587451297395_17525587457508110034.jpg",
-    "relevant_images": [
-      "watergun/P17525587168356305_17525587178442367498.jpg"
     ],
     "category": "watergun",
     "product_id": "17525587"
