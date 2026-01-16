@@ -184,11 +184,25 @@
                 imgElement.className = 'image-item';
                 // 移除路径开头的 'Pic/' 部分以匹配静态文件配置
                 const imagePath = img.startsWith('Pic/') ? img.substring(4) : img;
-                imgElement.innerHTML = `
-                    <input type="checkbox" class="image-checkbox" value="\${img}">
-                    <img src="/static/\${imagePath}" alt="\${img}" onerror="this.style.display='none'">
-                    <div class="image-caption">\${img.split('/').pop()}</div>
-                `;
+                const fileName = img.split('/').pop();
+                
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.className = 'image-checkbox';
+                checkbox.value = img;
+                
+                const imgTag = document.createElement('img');
+                imgTag.src = '/static/' + imagePath;
+                imgTag.alt = img;
+                imgTag.onerror = function() { this.style.display = 'none'; };
+                
+                const caption = document.createElement('div');
+                caption.className = 'image-caption';
+                caption.textContent = fileName;
+                
+                imgElement.appendChild(checkbox);
+                imgElement.appendChild(imgTag);
+                imgElement.appendChild(caption);
                 grid.appendChild(imgElement);
             });
         }

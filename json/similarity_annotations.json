@@ -1,93 +1,94 @@
 [
   {
     "query_image": "buildingBlock/P0422647_17162030214833128553.jpg",
-    "relevant_images": [],
+    "relevant_images": [
+      "buildingBlock/P163747996787592_17546184040918302687.jpg",
+      "buildingBlock/P16425860323544812_16470639950199632953.jpg"
+    ],
     "category": "buildingBlock",
-    "product_id": "17162030"
-  },
-  {
-    "query_image": "buildingBlock/P163462550710690_397125987528773.jpg",
-    "relevant_images": [],
-    "category": "buildingBlock",
-    "product_id": "16346255"
-  },
-  {
-    "query_image": "buildingBlock/P163651172865254_17599027700557779233.jpg",
-    "relevant_images": [],
-    "category": "buildingBlock",
-    "product_id": "16365117"
-  },
-  {
-    "query_image": "buildingBlock/P163747996787592_17546184040918302687.jpg",
-    "relevant_images": [],
-    "category": "buildingBlock",
-    "product_id": "16374799"
-  },
-  {
-    "query_image": "buildingBlock/P16425860323544812_16470639950199632953.jpg",
-    "relevant_images": [],
-    "category": "buildingBlock",
-    "product_id": "16425860"
+    "product_id": "17162030",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P16425861978886085_16470639768029743729.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "16425861"
+    "product_id": "16425861",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P16457605211733990_17159150505552000244.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "16457605"
+    "product_id": "16457605",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P16480190552449707_16560616991882322233.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "16480190"
+    "product_id": "16480190",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P16635521745848273_16635521747155330805.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "16635521"
+    "product_id": "16635521",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P16885421948899013_435705622704197.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "16885421"
+    "product_id": "16885421",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P16956353997128879_17313162501858525649.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "16956353"
+    "product_id": "16956353",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P16964884481827684_605226738929733.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "16964884"
+    "product_id": "16964884",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P16968335194443600_16968335195888050686.png",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "16968335"
+    "product_id": "16968335",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17008832786133703_486265628332102.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17008832"
+    "product_id": "17008832",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17085308454439047_17587058981923642658.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17085308"
+    "product_id": "17085308",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17092883078749753_17297370377807414049.jpg",
@@ -95,91 +96,121 @@
       "buildingBlock/P17092883150876993_17297371919617753730.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17092883"
+    "product_id": "17092883",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.8959707617759705
   },
   {
     "query_image": "buildingBlock/P17102350781539495_524564733206598.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17102350"
+    "product_id": "17102350",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17116796319062638_530484887683142.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17116796"
+    "product_id": "17116796",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17129860651482614_535837326385222.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17129860"
+    "product_id": "17129860",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17134068309109518_537563493613638.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17134068"
+    "product_id": "17134068",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17135812971713069_17483498640133061434.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17135812"
+    "product_id": "17135812",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17139450560225475_17139450566515601062.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17139450"
+    "product_id": "17139450",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17162604986829489_17176103779856828155.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17162604"
+    "product_id": "17162604",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17169787451653779_17169787456432500810.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17169787"
+    "product_id": "17169787",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17205167766729826_566683924443206.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17205167"
+    "product_id": "17205167",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17218314191659391_17218314232772976862.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17218314"
+    "product_id": "17218314",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17219098641586270_17396200842939782057.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17219098"
+    "product_id": "17219098",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17226745221882836_17226745226272556960.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17226745"
+    "product_id": "17226745",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17243163086846580_17438376140422928509.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17243163"
+    "product_id": "17243163",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17243994789666712_17243994794068948691.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17243994"
+    "product_id": "17243994",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17254136862749594_17254136867301152940.jpg",
@@ -187,181 +218,241 @@
       "buildingBlock/P17254136911101533_17254136915933886552.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17254136"
+    "product_id": "17254136",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.9293126463890076
   },
   {
     "query_image": "buildingBlock/P17255026135822030_587097956315206.png",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17255026"
+    "product_id": "17255026",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17259615358089422_588978873811013.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17259615"
+    "product_id": "17259615",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17274225791265942_17624845815069133399.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17274225"
+    "product_id": "17274225",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17275039164172828_17644039032622104697.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17275039"
+    "product_id": "17275039",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17289904032746159_601376174551110.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17289904"
+    "product_id": "17289904",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17293201007291850_602743674400838.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17293201"
+    "product_id": "17293201",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17311416761705316_17547257796359062575.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17311416"
+    "product_id": "17311416",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17318976670108293_613300518797381.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17318976"
+    "product_id": "17318976",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17322468285245962_614488076939333.png",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17322468"
+    "product_id": "17322468",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17331201993345169_17331202007231908364.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17331201"
+    "product_id": "17331201",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17339172963355032_617204468006982.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17339172"
+    "product_id": "17339172",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17356286640692779_17356286646734338378.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17356286"
+    "product_id": "17356286",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17359659271848846_629957223460934.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17359659"
+    "product_id": "17359659",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17396086998678418_644882453086277.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17396086"
+    "product_id": "17396086",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17397622908098912_17397622914475407517.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17397622"
+    "product_id": "17397622",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17398638760463164_17466924485234676096.png",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17398638"
+    "product_id": "17398638",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17399610763847610_17399610769272778681.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17399610"
+    "product_id": "17399610",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17403849012728881_17403976629989738104.png",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17403849"
+    "product_id": "17403849",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17405638811962628_17405766371331590782.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17405638"
+    "product_id": "17405638",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17406452974244063_649123136475205.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17406452"
+    "product_id": "17406452",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17413975582584624_17413975588589771083.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17413975"
+    "product_id": "17413975",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17414434192388808_17414434197648114258.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17414434"
+    "product_id": "17414434",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17423505562435218_17423505570138872061.png",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17423505"
+    "product_id": "17423505",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17427881050686690_657909196677190.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17427881"
+    "product_id": "17427881",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17428993713717637_658353556262981.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17428993"
+    "product_id": "17428993",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17428994499528515_658353665179718.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17428994"
+    "product_id": "17428994",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17443589895894891_17443589901672869994.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17443589"
+    "product_id": "17443589",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17446361257454582_17446361263559258258.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17446361"
+    "product_id": "17446361",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17446847914934983_665678894600261.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17446847"
+    "product_id": "17446847",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17446848112697906_665678642774085.jpg",
@@ -369,55 +460,73 @@
       "buildingBlock/P17446848142598868_665678606307397.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17446848"
+    "product_id": "17446848",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0000001192092896
   },
   {
     "query_image": "buildingBlock/P17447316412221813_665864220934213.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17447316"
+    "product_id": "17447316",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17447755057169726_17447755063127080454.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17447755"
+    "product_id": "17447755",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17448783815473327_17448783822831933206.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17448783"
+    "product_id": "17448783",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17448784114389793_17448787567286680963.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17448784"
+    "product_id": "17448784",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17448793667477642_17448793674339754092.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17448793"
+    "product_id": "17448793",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17457536497516874_17497126074261422179.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17457536"
+    "product_id": "17457536",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17459302296207097_670781257973829.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17459302"
+    "product_id": "17459302",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17467549786424778_17467549792666008787.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17467549"
+    "product_id": "17467549",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17467817223078390_17467817228758778809.png",
@@ -426,7 +535,9 @@
       "buildingBlock/P17467817442179954_17467817447895737547.png"
     ],
     "category": "buildingBlock",
-    "product_id": "17467817"
+    "product_id": "17467817",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.5930130481719971
   },
   {
     "query_image": "buildingBlock/P17467839590452522_17467839596911383423.jpg",
@@ -435,61 +546,81 @@
       "buildingBlock/P17467839990325574_17467839995962926105.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17467839"
+    "product_id": "17467839",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.7925618290901184
   },
   {
     "query_image": "buildingBlock/P17467840382499402_17467840388167334075.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17467840"
+    "product_id": "17467840",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17476406669525295_17476406675617958495.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17476406"
+    "product_id": "17476406",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17479944732046436_17479944742248236995.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17479944"
+    "product_id": "17479944",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17479945177581260_17479945188343267936.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17479945"
+    "product_id": "17479945",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17485010704026758_17485010711589455651.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17485010"
+    "product_id": "17485010",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17485944145749554_681680908677189.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17485944"
+    "product_id": "17485944",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17488310258618349_17488310264306435903.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17488310"
+    "product_id": "17488310",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17488580096277495_17488580115774712260.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17488580"
+    "product_id": "17488580",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17495414843699584_685568678654022.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17495414"
+    "product_id": "17495414",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17496137462627542_17500817130164909739.jpg",
@@ -497,19 +628,25 @@
       "buildingBlock/P17496137462627542_17500817151696805494.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17496137"
+    "product_id": "17496137",
+    "verification_status": "needs_split",
+    "intra_similarity": 0.4740801453590393
   },
   {
     "query_image": "buildingBlock/P17496288913455612_17496288920137971253.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17496288"
+    "product_id": "17496288",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17496289003478064_17496289011291250260.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17496289"
+    "product_id": "17496289",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17496911948368326_17496911955952153772.jpg",
@@ -517,7 +654,9 @@
       "buildingBlock/P17496911978817556_17496911985029098366.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17496911"
+    "product_id": "17496911",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.563252329826355
   },
   {
     "query_image": "buildingBlock/P17496912010406638_17496912016802036149.jpg",
@@ -525,73 +664,97 @@
       "buildingBlock/P17496912031446202_17496912037319731468.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17496912"
+    "product_id": "17496912",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.8748824000358582
   },
   {
     "query_image": "buildingBlock/P17497794269714378_17497794278662377349.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17497794"
+    "product_id": "17497794",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17498215063979145_17498215069793449919.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17498215"
+    "product_id": "17498215",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17501445766189880_17501445774021099855.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17501445"
+    "product_id": "17501445",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17511044075093505_17511044081306251279.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17511044"
+    "product_id": "17511044",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17515939363292877_17515939369413760518.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17515939"
+    "product_id": "17515939",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17520272482128228_695743881527365.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17520272"
+    "product_id": "17520272",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17522008982945720_696462187409478.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17522008"
+    "product_id": "17522008",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17530864933707528_17530864949021540849.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17530864"
+    "product_id": "17530864",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17537805386937264_702925943144517.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17537805"
+    "product_id": "17537805",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17538733548484944_703318625386565.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17538733"
+    "product_id": "17538733",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17544455372661040_17544455378326031940.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17544455"
+    "product_id": "17544455",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17547055445149547_17547055451247363226.jpg",
@@ -599,19 +762,25 @@
       "buildingBlock/P17547055542993014_17547055547801202383.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17547055"
+    "product_id": "17547055",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.6270530223846436
   },
   {
     "query_image": "buildingBlock/P17547100531538732_17547100536444819692.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17547100"
+    "product_id": "17547100",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17547101164782794_17547101170251204953.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17547101"
+    "product_id": "17547101",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17549871105254163_17549871110327646593.jpg",
@@ -619,19 +788,25 @@
       "buildingBlock/P17549871361863534_17549871366922957565.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17549871"
+    "product_id": "17549871",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.8565368056297302
   },
   {
     "query_image": "buildingBlock/P17552402396523767_17552402436181006117.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17552402"
+    "product_id": "17552402",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17555744185549613_710270311182407.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17555744"
+    "product_id": "17555744",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17558501558681818_17558501564526294748.jpg",
@@ -639,55 +814,73 @@
       "buildingBlock/P17558501697714320_17558501704717802642.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17558501"
+    "product_id": "17558501",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.5776944756507874
   },
   {
     "query_image": "buildingBlock/P17558502839608970_17558502847738920319.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17558502"
+    "product_id": "17558502",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17560853682725756_17560853688331263536.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17560853"
+    "product_id": "17560853",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17561113058637829_712482398445638.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17561113"
+    "product_id": "17561113",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17561223482258696_17561223487911610600.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17561223"
+    "product_id": "17561223",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17562584014879184_713084561981509.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17562584"
+    "product_id": "17562584",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17568800201429462_715619710365766.png",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17568800"
+    "product_id": "17568800",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17569649592228978_17569649870597188557.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17569649"
+    "product_id": "17569649",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17569669078439388_17569669093876579358.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17569669"
+    "product_id": "17569669",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17573274837297861_17573274842972777132.jpg",
@@ -695,43 +888,57 @@
       "buildingBlock/P17573274851438868_17573274858958781516.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17573274"
+    "product_id": "17573274",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.7421188354492188
   },
   {
     "query_image": "buildingBlock/P17573275125895670_17573275130593326019.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17573275"
+    "product_id": "17573275",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17575012819383096_17575816471217622450.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17575012"
+    "product_id": "17575012",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17575014038494427_17575817837998957032.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17575014"
+    "product_id": "17575014",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17575017200358261_17575820992271731334.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17575017"
+    "product_id": "17575017",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17575018521524886_17575825958708772389.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17575018"
+    "product_id": "17575018",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17575552568878459_17575552574604547070.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17575552"
+    "product_id": "17575552",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17582529315553234_17582529320536664865.jpg",
@@ -739,133 +946,177 @@
       "buildingBlock/P17582529871828677_17582529878102350702.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17582529"
+    "product_id": "17582529",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.6110913157463074
   },
   {
     "query_image": "buildingBlock/P17587643766268466_17587643772223671741.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17587643"
+    "product_id": "17587643",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17591420193421480_724889270747206.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17591420"
+    "product_id": "17591420",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17595670180248044_17595670188307110947.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17595670"
+    "product_id": "17595670",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17598931076214630_17625856316332960451.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17598931"
+    "product_id": "17598931",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17600256762057251_17600256790748018948.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17600256"
+    "product_id": "17600256",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17600830547793131_17611886319952615874.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17600830"
+    "product_id": "17600830",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17600857738487167_17600857751306797990.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17600857"
+    "product_id": "17600857",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17603234908328276_17603234923984965989.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17603234"
+    "product_id": "17603234",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17610468631441648_17610468660184615730.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17610468"
+    "product_id": "17610468",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17611122130576080_732959461064773.png",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17611122"
+    "product_id": "17611122",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17611177266185554_17636326016784821102.png",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17611177"
+    "product_id": "17611177",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17612881169517243_733684804239431.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17612881"
+    "product_id": "17612881",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17613049736772787_17613049741901462671.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17613049"
+    "product_id": "17613049",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17615553369313239_17617093909891153922.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17615553"
+    "product_id": "17615553",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17622488742046412_17622488902221794960.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17622488"
+    "product_id": "17622488",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17623994843259527_17623994849646757469.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17623994"
+    "product_id": "17623994",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17625844953139074_17625844969173169434.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17625844"
+    "product_id": "17625844",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17627573082986093_17627573088427529365.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17627573"
+    "product_id": "17627573",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17627611577751698_17627611593341413911.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17627611"
+    "product_id": "17627611",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17627612461888823_17627612468068851717.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17627612"
+    "product_id": "17627612",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17628262101047775_17628262107057011691.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17628262"
+    "product_id": "17628262",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17628263154744848_17628263162147247243.jpg",
@@ -873,19 +1124,25 @@
       "buildingBlock/P17628263862467460_17628263868349943797.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17628263"
+    "product_id": "17628263",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.7658698558807373
   },
   {
     "query_image": "buildingBlock/P17628265792318423_17628265797511335064.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17628265"
+    "product_id": "17628265",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17629208011328162_17629208036043068185.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17629208"
+    "product_id": "17629208",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17631096752513370_17631096765351555876.jpg",
@@ -893,49 +1150,65 @@
       "buildingBlock/P17631096814075978_17631096824088884532.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17631096"
+    "product_id": "17631096",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.5436009168624878
   },
   {
     "query_image": "buildingBlock/P17632573315007803_741752903946310.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17632573"
+    "product_id": "17632573",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17632723950895777_741810110447689.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17632723"
+    "product_id": "17632723",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17634367509818398_17634367515842790340.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17634367"
+    "product_id": "17634367",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17635419144829173_17635419156422559268.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17635419"
+    "product_id": "17635419",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17637139617699965_743615924678726.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17637139"
+    "product_id": "17637139",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17639734420669222_17639734428615204596.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17639734"
+    "product_id": "17639734",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17641470272271143_17641470277764711137.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17641470"
+    "product_id": "17641470",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17641515268365391_17641515274487796289.jpg",
@@ -943,49 +1216,65 @@
       "buildingBlock/P17641515290446912_17641515296114978994.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17641515"
+    "product_id": "17641515",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.9431517720222473
   },
   {
     "query_image": "buildingBlock/P17642349225457768_17642349232175921622.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17642349"
+    "product_id": "17642349",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17642396868688806_745767059361863.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17642396"
+    "product_id": "17642396",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17643087877709378_17643122490712912504.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17643087"
+    "product_id": "17643087",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17649004769891075_17652499284866926389.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17649004"
+    "product_id": "17649004",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17652504282311162_17652504289794152919.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17652504"
+    "product_id": "17652504",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17652695026605009_17652695036545363337.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17652695"
+    "product_id": "17652695",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17654321050726268_751052805509189.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17654321"
+    "product_id": "17654321",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17654474459663272_17654474465269531270.jpg",
@@ -994,13 +1283,17 @@
       "buildingBlock/P17654474633031795_17654474638793122912.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17654474"
+    "product_id": "17654474",
+    "verification_status": "needs_split",
+    "intra_similarity": 0.4647049009799957
   },
   {
     "query_image": "buildingBlock/P17654476496648043_17654476502399558155.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17654476"
+    "product_id": "17654476",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17654480482882328_17654480488599468259.jpg",
@@ -1008,7 +1301,9 @@
       "buildingBlock/P17654480663236709_17654480671219469880.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17654480"
+    "product_id": "17654480",
+    "verification_status": "needs_split",
+    "intra_similarity": 0.49134498834609985
   },
   {
     "query_image": "buildingBlock/P17654481085095647_17654481090653073012.jpg",
@@ -1016,13 +1311,17 @@
       "buildingBlock/P17654481565271275_17654481572844505198.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17654481"
+    "product_id": "17654481",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.7613795399665833
   },
   {
     "query_image": "buildingBlock/P17655900263355553_17655901376456349130.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17655900"
+    "product_id": "17655900",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17657768142964267_752068803342406.jpg",
@@ -1030,7 +1329,9 @@
       "buildingBlock/P17657768659654179_752069042864198.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17657768"
+    "product_id": "17657768",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.8542698621749878
   },
   {
     "query_image": "buildingBlock/P17658839213218478_17658839219046415018.png",
@@ -1038,43 +1339,57 @@
       "buildingBlock/P17658839560824246_17658839567041842035.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17658839"
+    "product_id": "17658839",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.643311083316803
   },
   {
     "query_image": "buildingBlock/P17658840489706180_17658840495358613163.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17658840"
+    "product_id": "17658840",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17661339906284130_17661339917939259184.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17661339"
+    "product_id": "17661339",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17663840638712094_17663840644835978851.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17663840"
+    "product_id": "17663840",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17663841383085271_17667440322785708380.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17663841"
+    "product_id": "17663841",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17670137386927214_17670140894376411335.png",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17670137"
+    "product_id": "17670137",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17673400852677070_17673400858294385044.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17673400"
+    "product_id": "17673400",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17675959236229433_17675960662628835863.jpg",
@@ -1082,55 +1397,73 @@
       "buildingBlock/P17675959565586275_17675959573575556418.jpg"
     ],
     "category": "buildingBlock",
-    "product_id": "17675959"
+    "product_id": "17675959",
+    "verification_status": "needs_split",
+    "intra_similarity": 0.29963722825050354
   },
   {
     "query_image": "buildingBlock/P17676881408531038_17676881415716083526.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17676881"
+    "product_id": "17676881",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "buildingBlock/P17679466644352465_17679473335514760744.jpg",
     "relevant_images": [],
     "category": "buildingBlock",
-    "product_id": "17679466"
+    "product_id": "17679466",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P161712064685756_17581876704586269590.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16171206"
+    "product_id": "16171206",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16420570453295620_16420570455895254811.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16420570"
+    "product_id": "16420570",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16469233387925196_16545889453537965521.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16469233"
+    "product_id": "16469233",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16469686158474084_16545882225874228706.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16469686"
+    "product_id": "16469686",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16494201970194810_17488491310694540103.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16494201"
+    "product_id": "16494201",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16512163736744708_16830938237858426544.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16512163"
+    "product_id": "16512163",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16521541464117398_16830950469816781920.jpg",
@@ -1138,7 +1471,9 @@
       "waterGun/P16521541464117398_16830950470893967503.jpg"
     ],
     "category": "waterGun",
-    "product_id": "16521541"
+    "product_id": "16521541",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.9311546087265015
   },
   {
     "query_image": "waterGun/P16599535727799210_16830951447791413054.jpg",
@@ -1146,13 +1481,17 @@
       "waterGun/P16599535727799210_16830951464537794558.jpg"
     ],
     "category": "waterGun",
-    "product_id": "16599535"
+    "product_id": "16599535",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.6039962768554688
   },
   {
     "query_image": "waterGun/P16702193487058384_17550796727528205715.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16702193"
+    "product_id": "16702193",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16716025798144139_17645768097244180482.jpg",
@@ -1162,43 +1501,57 @@
       "waterGun/P16716025798144139_17645768171631525672.jpg"
     ],
     "category": "waterGun",
-    "product_id": "16716025"
+    "product_id": "16716025",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.7214824557304382
   },
   {
     "query_image": "waterGun/P16783259202098710_16783259204138614049.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16783259"
+    "product_id": "16783259",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16788435652954991_16819696906619773335.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16788435"
+    "product_id": "16788435",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16791306381796114_16791306383488032215.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16791306"
+    "product_id": "16791306",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16791311842531323_16791311844232708147.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16791311"
+    "product_id": "16791311",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16817807551483340_16817807560835865497.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16817807"
+    "product_id": "16817807",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16818141850409656_16818141869978839602.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16818141"
+    "product_id": "16818141",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16889740763875498_17477267088183617292.jpg",
@@ -1206,67 +1559,89 @@
       "waterGun/P16889740763875498_17477267114283081940.jpg"
     ],
     "category": "waterGun",
-    "product_id": "16889740"
+    "product_id": "16889740",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.8544043302536011
   },
   {
     "query_image": "waterGun/P16892299314608343_17412384176359886344.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16892299"
+    "product_id": "16892299",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16896666460095071_16896666462071641786.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16896666"
+    "product_id": "16896666",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16924393403783050_17636326063009781980.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16924393"
+    "product_id": "16924393",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16931880621647349_16931880623392298323.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16931880"
+    "product_id": "16931880",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16946223542968920_17429692681542081784.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16946223"
+    "product_id": "16946223",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16984766202964052_16984766204422557422.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16984766"
+    "product_id": "16984766",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P16989227047731728_17480807771759277291.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "16989227"
+    "product_id": "16989227",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17045494518637816_17045494527498703530.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17045494"
+    "product_id": "17045494",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17087492867273437_17087492870614435565.png",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17087492"
+    "product_id": "17087492",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17087493004737298_17087493008638209563.png",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17087493"
+    "product_id": "17087493",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17090871569854884_17293094780917114569.jpg",
@@ -1274,13 +1649,17 @@
       "waterGun/P17090871655083671_17090871661495848676.png"
     ],
     "category": "waterGun",
-    "product_id": "17090871"
+    "product_id": "17090871",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.5246394872665405
   },
   {
     "query_image": "waterGun/P17096227802785296_522053279539270.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17096227"
+    "product_id": "17096227",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17101315103172579_17102140920594872601.jpg",
@@ -1288,91 +1667,121 @@
       "waterGun/P17101315498988495_17102120303502817733.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17101315"
+    "product_id": "17101315",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.8316310048103333
   },
   {
     "query_image": "waterGun/P17112656811835396_528789401161798.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17112656"
+    "product_id": "17112656",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17118129349447977_17118129354376256166.png",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17118129"
+    "product_id": "17118129",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17127441076356918_17127441090266234834.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17127441"
+    "product_id": "17127441",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17128194973531018_536651161456709.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17128194"
+    "product_id": "17128194",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17128195017979448_17153146022854476828.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17128195"
+    "product_id": "17128195",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17130012415904748_17131628086115070029.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17130012"
+    "product_id": "17130012",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17133535249602932_537336964264005.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17133535"
+    "product_id": "17133535",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17152580133979611_545146723098694.png",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17152580"
+    "product_id": "17152580",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17155969749479419_17155969753562252085.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17155969"
+    "product_id": "17155969",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17174709969829047_17174709990526897014.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17174709"
+    "product_id": "17174709",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17177455399323664_555331674808390.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17177455"
+    "product_id": "17177455",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17193916519063290_17193916539887321713.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17193916"
+    "product_id": "17193916",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17214917518184478_17214917576787953004.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17214917"
+    "product_id": "17214917",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17228441737864743_17228441741561527312.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17228441"
+    "product_id": "17228441",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17228442260573963_17228442266381300877.jpg",
@@ -1380,43 +1789,57 @@
       "waterGun/P17228442379528058_17228442384034062195.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17228442"
+    "product_id": "17228442",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.6309526562690735
   },
   {
     "query_image": "waterGun/P17236472675327910_17255419255201115855.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17236472"
+    "product_id": "17236472",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17237105422682016_17237105427006842059.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17237105"
+    "product_id": "17237105",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17237887927249146_17240798595831422183.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17237887"
+    "product_id": "17237887",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17256067784552161_587528194154565.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17256067"
+    "product_id": "17256067",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17273767516161393_602073852428357.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17273767"
+    "product_id": "17273767",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17282786432314636_598468278505541.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17282786"
+    "product_id": "17282786",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17282789753296743_598468588122181.jpg",
@@ -1424,55 +1847,73 @@
       "waterGun/P17282789828393955_598468553146438.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17282789"
+    "product_id": "17282789",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.9240422248840332
   },
   {
     "query_image": "waterGun/P17295805494084627_17295805498281210176.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17295805"
+    "product_id": "17295805",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17314861900244050_17314861907581184552.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17314861"
+    "product_id": "17314861",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17315629280839363_17315629303004548096.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17315629"
+    "product_id": "17315629",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17318398728297292_613058892054598.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17318398"
+    "product_id": "17318398",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17320886949699123_614085221294149.png",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17320886"
+    "product_id": "17320886",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17324350210979054_704323490250821.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17324350"
+    "product_id": "17324350",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17329341544698469_17640357335888053887.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17329341"
+    "product_id": "17329341",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17331251287017566_618336817786950.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17331251"
+    "product_id": "17331251",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17337425135935727_620850034909254.jpg",
@@ -1483,31 +1924,41 @@
       "waterGun/P17337425985799731_620850209562693.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17337425"
+    "product_id": "17337425",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.6899200677871704
   },
   {
     "query_image": "waterGun/P17337426187139013_620849988223046.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17337426"
+    "product_id": "17337426",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17340069072812259_622140172681286.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17340069"
+    "product_id": "17340069",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17365813815942744_17542886401469428159.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17365813"
+    "product_id": "17365813",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17370121756602381_17391665718271352221.png",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17370121"
+    "product_id": "17370121",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17387251453047442_17429784377207952043.jpg",
@@ -1515,25 +1966,33 @@
       "waterGun/P17387251553403751_17387251558863707486.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17387251"
+    "product_id": "17387251",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.5870081782341003
   },
   {
     "query_image": "waterGun/P17390640277096555_17390640293908646195.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17390640"
+    "product_id": "17390640",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17400404255563571_17629979869228561139.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17400404"
+    "product_id": "17400404",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17404726581061233_17404726586254977421.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17404726"
+    "product_id": "17404726",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17404727409469355_17404727414348612985.jpg",
@@ -1544,13 +2003,17 @@
       "waterGun/P17404727804996657_17404727810113255347.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17404727"
+    "product_id": "17404727",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.8101235628128052
   },
   {
     "query_image": "waterGun/P17404968934988051_17404968950864229467.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17404968"
+    "product_id": "17404968",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17405460182155236_17405460187523136759.jpg",
@@ -1558,7 +2021,9 @@
       "waterGun/P17405460554865572_17405460560316945890.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17405460"
+    "product_id": "17405460",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.8807499408721924
   },
   {
     "query_image": "waterGun/P17405461235416578_17405461240571502512.jpg",
@@ -1566,31 +2031,41 @@
       "waterGun/P17405461344411058_17405461350534510966.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17405461"
+    "product_id": "17405461",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.8601847290992737
   },
   {
     "query_image": "waterGun/P17408101491902005_17408101497412167442.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17408101"
+    "product_id": "17408101",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17415740180087208_652924586397766.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17415740"
+    "product_id": "17415740",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17416959581452386_17416959586637995823.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17416959"
+    "product_id": "17416959",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17422647817596266_17422647823035096753.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17422647"
+    "product_id": "17422647",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17424641193784825_17424641199531163376.jpg",
@@ -1598,13 +2073,17 @@
       "waterGun/P17424641253396599_17424641259519772876.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17424641"
+    "product_id": "17424641",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.9118755459785461
   },
   {
     "query_image": "waterGun/P17425464951064619_17425717845426440171.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17425464"
+    "product_id": "17425464",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17425465244346371_17425465251333457019.jpg",
@@ -1612,31 +2091,41 @@
       "waterGun/P17425465368827128_17425465375662264968.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17425465"
+    "product_id": "17425465",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.8831213712692261
   },
   {
     "query_image": "waterGun/P17438496141332563_17438496147069551650.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17438496"
+    "product_id": "17438496",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17443595563351571_17443595581774930412.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17443595"
+    "product_id": "17443595",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17446057472527458_665346686664774.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17446057"
+    "product_id": "17446057",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17447121684542868_17447121690754031932.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17447121"
+    "product_id": "17447121",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17447748499148088_666046799732809.jpg",
@@ -1645,55 +2134,73 @@
       "waterGun/P17447748938434134_666046735650887.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17447748"
+    "product_id": "17447748",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.7319145798683167
   },
   {
     "query_image": "waterGun/P17448063354966634_666173125226566.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17448063"
+    "product_id": "17448063",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17448725470065958_17448725489796083577.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17448725"
+    "product_id": "17448725",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17449598911693653_17449598917445882266.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17449598"
+    "product_id": "17449598",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17452179143562012_17485760142464189699.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17452179"
+    "product_id": "17452179",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17452456046118654_17452456052002834072.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17452456"
+    "product_id": "17452456",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17453179250645727_668259538595910.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17453179"
+    "product_id": "17453179",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17453827892281538_17453827909497648760.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17453827"
+    "product_id": "17453827",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17459013864347728_17467115432268348921.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17459013"
+    "product_id": "17459013",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17463706106544930_17467744863233818077.jpg",
@@ -1701,49 +2208,65 @@
       "waterGun/P17463706315419295_17463706320339097358.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17463706"
+    "product_id": "17463706",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.8558582067489624
   },
   {
     "query_image": "waterGun/P17467796497422172_674248785584203.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17467796"
+    "product_id": "17467796",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17467955580758046_17467955586432275202.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17467955"
+    "product_id": "17467955",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17468624938739333_674589190369353.png",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17468624"
+    "product_id": "17468624",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17472164976638104_676037467533384.png",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17472164"
+    "product_id": "17472164",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17478099445777246_17478151137673491121.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17478099"
+    "product_id": "17478099",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17478334444672100_17478334508433620106.png",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17478334"
+    "product_id": "17478334",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17480034922116714_17549947627527515477.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17480034"
+    "product_id": "17480034",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17481692752288933_17497111684215600968.jpg",
@@ -1751,49 +2274,65 @@
       "waterGun/P17481692799636514_17497109583284512265.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17481692"
+    "product_id": "17481692",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.9037221670150757
   },
   {
     "query_image": "waterGun/P17489159184253558_17489159189926581332.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17489159"
+    "product_id": "17489159",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17494643054932912_685250541764677.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17494643"
+    "product_id": "17494643",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17497211890296858_17569651586955981547.png",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17497211"
+    "product_id": "17497211",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17502180559674877_688341437542469.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17502180"
+    "product_id": "17502180",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17502285542745347_688383473717317.png",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17502285"
+    "product_id": "17502285",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17504085644092150_689154604912710.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17504085"
+    "product_id": "17504085",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17509221262885658_17509221269021466197.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17509221"
+    "product_id": "17509221",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17520320456894278_695765638107208.jpg",
@@ -1801,19 +2340,25 @@
       "waterGun/P17520320486838137_695765638107213.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17520320"
+    "product_id": "17520320",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.6468453407287598
   },
   {
     "query_image": "waterGun/P17521975266899349_743977374769222.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17521975"
+    "product_id": "17521975",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17525586880762065_17525586888028536489.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17525586"
+    "product_id": "17525586",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17525587168356305_17525587178442367498.jpg",
@@ -1821,67 +2366,89 @@
       "waterGun/P17525587451297395_17525587457508110034.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17525587"
+    "product_id": "17525587",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.7066238522529602
   },
   {
     "query_image": "waterGun/P17525707164519154_17525707236678885122.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17525707"
+    "product_id": "17525707",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17530821972455046_17530821978933734673.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17530821"
+    "product_id": "17530821",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17530907037955012_700098159231046.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17530907"
+    "product_id": "17530907",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17535872777199096_702134460330055.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17535872"
+    "product_id": "17535872",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17537813903695057_702936691507270.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17537813"
+    "product_id": "17537813",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17540409580848833_703998686969926.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17540409"
+    "product_id": "17540409",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17540411180256032_703998953902150.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17540411"
+    "product_id": "17540411",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17542303826938377_705999300956229.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17542303"
+    "product_id": "17542303",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17543744220637150_705360980213829.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17543744"
+    "product_id": "17543744",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17545343053487348_17563773667782309023.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17545343"
+    "product_id": "17545343",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17559421061743160_711793195831366.png",
@@ -1889,91 +2456,121 @@
       "waterGun/P17559421504549517_711786911948870.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17559421"
+    "product_id": "17559421",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.5608259439468384
   },
   {
     "query_image": "waterGun/P17569766234532677_17570661350871045017.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17569766"
+    "product_id": "17569766",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17574937476114046_17574937486874326650.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17574937"
+    "product_id": "17574937",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17578500877505100_719601167908934.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17578500"
+    "product_id": "17578500",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17579090257636890_17579090263443406884.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17579090"
+    "product_id": "17579090",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17582693003441999_17582693027701849239.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17582693"
+    "product_id": "17582693",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17582761227216748_17582761233596285834.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17582761"
+    "product_id": "17582761",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17585293621058952_722377383825478.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17585293"
+    "product_id": "17585293",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17591150414975873_17591150422605608350.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17591150"
+    "product_id": "17591150",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17592227178738596_17592227619648342340.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17592227"
+    "product_id": "17592227",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17598083107439659_17610446656284982965.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17598083"
+    "product_id": "17598083",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17599168601401223_17599168620326250495.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17599168"
+    "product_id": "17599168",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17599184394832137_728071141158982.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17599184"
+    "product_id": "17599184",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17600996295086921_17600996301193807965.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17600996"
+    "product_id": "17600996",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17602509859949089_729436424122438.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17602509"
+    "product_id": "17602509",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17606843506591159_17606843513637316470.jpg",
@@ -1981,61 +2578,81 @@
       "waterGun/P17606843654507667_17606843663347604925.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17606843"
+    "product_id": "17606843",
+    "verification_status": "needs_split",
+    "intra_similarity": 0.4763624966144562
   },
   {
     "query_image": "waterGun/P17610395076912326_732660117479498.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17610395"
+    "product_id": "17610395",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17615446565498594_17615446571225267127.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17615446"
+    "product_id": "17615446",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17621705566255909_17621705571013385408.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17621705"
+    "product_id": "17621705",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17622476739048218_737612870979654.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17622476"
+    "product_id": "17622476",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17631025203697693_17631025220931946456.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17631025"
+    "product_id": "17631025",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17635382974379132_17635382993474214769.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17635382"
+    "product_id": "17635382",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17635514666358926_17635514672037106839.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17635514"
+    "product_id": "17635514",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17636248938702193_17636248944475777247.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17636248"
+    "product_id": "17636248",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17639771930321718_17639771938218044934.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17639771"
+    "product_id": "17639771",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17639772039327058_17639772045276518217.jpg",
@@ -2045,25 +2662,33 @@
       "waterGun/P17639772806417498_17639772812182248290.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17639772"
+    "product_id": "17639772",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.6507606506347656
   },
   {
     "query_image": "waterGun/P17639773334198723_17639773342157055655.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17639773"
+    "product_id": "17639773",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17640620615708797_745048623333446.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17640620"
+    "product_id": "17640620",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17645799532843435_17645799538952060940.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17645799"
+    "product_id": "17645799",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17650054473287437_17650054480829409039.jpg",
@@ -2071,7 +2696,9 @@
       "waterGun/P17650054499467774_17650054505385030081.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17650054"
+    "product_id": "17650054",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.7948673367500305
   },
   {
     "query_image": "waterGun/P17658769544197209_17658769556748991061.jpg",
@@ -2079,13 +2706,17 @@
       "waterGun/P17658769975864618_17658769987874934583.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17658769"
+    "product_id": "17658769",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.737067699432373
   },
   {
     "query_image": "waterGun/P17658773108178987_17658773113981303327.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17658773"
+    "product_id": "17658773",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17661944761625532_17661944768148681383.jpg",
@@ -2093,25 +2724,33 @@
       "waterGun/P17661944912115751_17661944918231944872.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17661944"
+    "product_id": "17661944",
+    "verification_status": "needs_review",
+    "intra_similarity": 0.7320653796195984
   },
   {
     "query_image": "waterGun/P17665674845767476_17665674853308489910.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17665674"
+    "product_id": "17665674",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17665675030798584_17665675038314180838.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17665675"
+    "product_id": "17665675",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17666531802883507_17666531809647956739.jpg",
     "relevant_images": [],
     "category": "waterGun",
-    "product_id": "17666531"
+    "product_id": "17666531",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 1.0
   },
   {
     "query_image": "waterGun/P17670631576681898_17670631582539518904.jpg",
@@ -2120,6 +2759,8 @@
       "waterGun/P17670631639046484_17670631647956297845.jpg"
     ],
     "category": "waterGun",
-    "product_id": "17670631"
+    "product_id": "17670631",
+    "verification_status": "confirmed_high_sim",
+    "intra_similarity": 0.8947110176086426
   }
 ]

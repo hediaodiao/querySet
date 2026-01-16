@@ -185,6 +185,7 @@
         </div>
         
         <div class="actions">
+            <button id="save-final-home-btn" class="btn" style="background: #8e44ad; margin-right: 10px;">保存最终结果</button>
             <a href="/group-review" class="btn btn-primary">开始按组审核</a>
             <a href="/api/group-stats" class="btn btn-success">查看详细统计</a>
         </div>
@@ -201,6 +202,29 @@
             document.getElementById('progress-percent').textContent = progress.toFixed(1);
             document.getElementById('progress-text-content').textContent = 
                 progress.toFixed(1) + '% 完成 (' + processed + '/' + total + ')';
+        });
+        
+        // 保存最终结果按钮处理
+        document.getElementById('save-final-home-btn').addEventListener('click', function() {
+            if (confirm('确定要保存最终结果吗？这将生成 similarity_annotations_final.json 文件。')) {
+                fetch('/save-final-result', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    }
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        alert(data.message || '最终结果已保存！');
+                    } else {
+                        alert('保存失败: ' + (data.error || '未知错误'));
+                    }
+                })
+                .catch(error => {
+                    alert('保存请求失败: ' + error.message);
+                });
+            }
         });
     </script>
 </body>

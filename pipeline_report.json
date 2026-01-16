@@ -1,0 +1,34 @@
+{
+  "pipeline_status": "completed",
+  "stages_completed": [],
+  "files_generated": [
+    {
+      "name": "similarity_annotations.json",
+      "size_bytes": 19559,
+      "exists": true
+    },
+    {
+      "name": "similarity_annotations_verification_report.json",
+      "size_bytes": 161934,
+      "exists": true
+    },
+    {
+      "name": "similarity_annotations_initial.json",
+      "size_bytes": 14707,
+      "exists": true
+    },
+    {
+      "name": "similarity_annotations_final.json",
+      "exists": false
+    },
+    {
+      "name": "similarity_annotations_review_report.json",
+      "exists": false
+    }
+  ],
+  "summary": {
+    "similarity_annotations.json": "53 个项目",
+    "similarity_annotations_verification_report.json": "53 个验证条目",
+    "similarity_annotations_initial.json": "53 个项目"
+  }
+}
